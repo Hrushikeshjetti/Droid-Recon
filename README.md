@@ -19,8 +19,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Droid-Recon.git
-   cd Droid-Recon
+   [git clone https://github.com/Hrushikeshjetti/Droid-Recon.git]
    ```
 
 2. Install dependencies:
