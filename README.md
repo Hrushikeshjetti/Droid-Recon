@@ -1,4 +1,3 @@
-# Droid-Recon
 Here’s a sample `README.md` for your **Droid-Recon** project:
 
 ---
@@ -30,16 +29,16 @@ Here’s a sample `README.md` for your **Droid-Recon** project:
    ```
 
 3. Ensure ADB is installed on your system:
-   
+   ```bash
    sudo apt install adb
-   
+   ```
 
 ## Usage
 
 1. Start the application:
-   
+   ```bash
    python droid_recon.py
-   
+   ```
 
 2. Use the interactive menu to manage devices and perform actions.
 
@@ -49,18 +48,24 @@ Here’s a sample `README.md` for your **Droid-Recon** project:
 - ADB installed on your system
 - Optional: Metasploit for advanced features
 
+## Screenshots
+
+![Droid-Recon Screenshot](https://example.com/screenshot.png)
 
 ## Contributing
 
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
-2. Create a feature branch 
-3. Commit your changes 
-4. Push to the branch 
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m "Add feature"`).
+4. Push to the branch (`git push origin feature-name`).
 5. Open a Pull Request.
 
 ## License
 
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](LICENSE).
 
+---
+
+Let me know if you’d like to include more details or sections, such as troubleshooting or detailed examples!
